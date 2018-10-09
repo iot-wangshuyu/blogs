@@ -16,5 +16,6 @@ public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
         log.info("little tree started at http://localhost:8080");
+        log.info("asdfasdfds");
     }
 }
